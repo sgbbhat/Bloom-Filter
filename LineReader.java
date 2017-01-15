@@ -1,5 +1,5 @@
 //
-//  LINE READER. Read lines from a file.
+//  Class - LINE READER. Read lines from a file.
 //
 //
 //    Created by Shreeganesh Bhat
@@ -110,7 +110,7 @@ class LineReader
 }
 
 //
-//  BitArray. Implements an array of bits.
+//  Class - BitArray. Implements an array of bits.
 //
 //    Shreeganesh Bhat
 //    8 April 16
@@ -184,7 +184,7 @@ class BitArray
   
 }
 
-//  BloomFilter. uses an instance of BitArray and several hash functions to 
+//  Class - BloomFilter. uses an instance of BitArray and several hash functions to 
 //  probabilistically represent a large set of strings.
 //
 //  Shreeganesh Bhat
