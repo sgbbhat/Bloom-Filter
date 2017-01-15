@@ -1,0 +1,72 @@
+
+OUTPUT
+ 
+>java LineReader basic.txt
+Started adding words to BitArray 
+ 
+Number of Words added = 
+1 
+Number of Words added = 
+2 
+Number of Words added = 
+3 
+Number of Words added = 
+4 
+Number of Words added = 
+5 
+Number of Words added = 
+6 
+Number of Words added = 
+7 
+Number of Words added = 
+8 
+Number of Words added = 
+9 
+Number of Words added = 
+10 
+Number of Words added = 
+11 
+Number of Words added = 
+12 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Number of Words added = 
+840 
+Number of Words added = 
+841 
+Number of Words added = 
+842 
+Number of Words added = 
+843 
+Number of Words added = 
+844 
+Number of Words added = 
+845 
+Number of Words added = 
+846 
+Number of Words added = 
+847 
+Number of Words added = 
+848 
+Number of Words added = 
+849 
+Number of Words added = 
+850 
+All words added 
+ 
+Bit array size = 2500 
+Number of hash functions used = 4 
+
+Started testing if each word is in the instance of BloomFilter.....
+
+Accuraccy(probability that the method isIn will report a word is in the set, when it is not) of the instance of BloomFilter = 
+0.3053150454362599 
+Number of words for which function 'isIn' returned false  = 0 
